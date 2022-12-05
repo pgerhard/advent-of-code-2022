@@ -11,3 +11,9 @@
 **Input:** Strategy guide to Rock Paper Scissors  
 **Part One:** Calculate my total score if I follow my guess at what the guide means  
 **Part Two:** Calculate my total score if I follow the correct guide  
+
+## Day
+
+**Input:** List of items carried by each elf in the part  
+**Part One:** Calculate the duplicates carried in each elf's respective backpack
+**Part Two:** Calculate the type of the badge for each group of elves
