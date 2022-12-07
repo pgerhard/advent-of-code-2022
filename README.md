@@ -12,8 +12,14 @@
 **Part One:** Calculate my total score if I follow my guess at what the guide means  
 **Part Two:** Calculate my total score if I follow the correct guide  
 
-## Day
+## Day 3
 
 **Input:** List of items carried by each elf in the part  
 **Part One:** Calculate the duplicates carried in each elf's respective backpack
 **Part Two:** Calculate the type of the badge for each group of elves
+
+## Day 4
+
+**Input:** Pairs of assignments that sections that must be cleared by the elves
+**Part One:** Determine the number of assignments that overlap completely
+**Part Two:** Determine the number of assignments that partially overlap 
